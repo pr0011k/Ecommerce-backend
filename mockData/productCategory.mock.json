@@ -1,0 +1,17 @@
+[
+  {
+    "_id": { "$oid": "61512ab4aa04a38e1c22c104" },
+    "name": "Electronics",
+    "description": "Electronic devices and accessories."
+  },
+  {
+    "_id": { "$oid": "61512ab4aa04a38e1c22c105" },
+    "name": "Clothing",
+    "description": "Fashionable clothing for all occasions."
+  },
+  {
+    "_id": { "$oid": "61512ab4aa04a38e1c22c106" },
+    "name": "Home Appliances",
+    "description": "Appliances for your home."
+  }
+]
